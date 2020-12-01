@@ -1,14 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"d2/dcf/namespacestatistics.html":[9,0,11],
-"d2/de7/namespacerunge__kutta.html":[8,0,47],
-"d2/de9/heavy__light__decomposition_8cpp.html":[10,0,15,1],
-"d2/de9/heavy__light__decomposition_8cpp.html#a34b8683a2b429de5cce57e6d733ec817":[10,0,15,1,4],
-"d2/de9/heavy__light__decomposition_8cpp.html#a458410412185a5f09199deaff7157a8d":[10,0,15,1,5],
-"d2/de9/heavy__light__decomposition_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,15,1,3],
-"d2/de9/heavy__light__decomposition_8cpp.html#af31ec5409537703d9c8a47350386b32a":[10,0,15,1,6],
-"d3/d06/ode__semi__implicit__euler_8cpp.html":[10,0,12,11],
-"d3/d06/ode__semi__implicit__euler_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[10,0,12,11,1],
 "d3/d06/ode__semi__implicit__euler_8cpp.html#aa13517b8e5de1b75592052db7f7e237f":[10,0,12,11,3],
 "d3/d06/ode__semi__implicit__euler_8cpp.html#abaeae8f62a018d197f0187a1c80a90fe":[10,0,12,11,2],
 "d3/d06/ode__semi__implicit__euler_8cpp.html#af3adf7b092a87868917ee5fb4255192b":[10,0,12,11,0],
@@ -16,8 +7,8 @@ var NAVTREEINDEX1 =
 "d3/d19/sparse__matrix_8cpp.html":[10,0,13,13],
 "d3/d19/sparse__matrix_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,13,13,0],
 "d3/d22/saddleback__search_8cpp.html":[10,0,16,9],
-"d3/d22/saddleback__search_8cpp.html#a551424d95b5b951d85e574e51700825e":[10,0,16,9,1],
 "d3/d22/saddleback__search_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,16,9,2],
+"d3/d22/saddleback__search_8cpp.html#ad0b1c6e2d1927236e0fcf14a068a86d0":[10,0,16,9,1],
 "d3/d22/saddleback__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,16,9,0],
 "d3/d24/qr__decomposition_8cpp.html":[10,0,12,13],
 "d3/d24/qr__decomposition_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe":[10,0,12,13,0],
@@ -249,5 +240,14 @@ var NAVTREEINDEX1 =
 "d5/d33/gram__schmidt_8cpp.html#a46e459aff5eafffb5ad9ceb129b4d274":[10,0,9,0,4],
 "d5/d33/gram__schmidt_8cpp.html#aa31ca28f60c880802462335eedc5d91f":[10,0,9,0,2],
 "d5/d33/gram__schmidt_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,9,0,5],
-"d5/d33/gram__schmidt_8cpp.html#ab6b70f9680752e9fe2ac4e2cce158c40":[10,0,9,0,0]
+"d5/d33/gram__schmidt_8cpp.html#ab6b70f9680752e9fe2ac4e2cce158c40":[10,0,9,0,0],
+"d5/d33/gram__schmidt_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,9,0,3],
+"d5/d33/gram__schmidt_8cpp.html#aed4d308f46ca1d91e348ca260ec1d2fb":[10,0,9,0,1],
+"d5/d39/namespaceactivations.html":[8,0,0],
+"d5/d3c/namespacedata__structures.html":[9,0,1],
+"d5/d3c/namespacedata__structures.html":[8,0,7],
+"d5/d4c/group__sorting.html":[7,3],
+"d5/d4c/group__sorting.html#ga0a9a57a1f1bbba3d4822531d002b7e07":[7,3,8],
+"d5/d4c/group__sorting.html#ga0a9a57a1f1bbba3d4822531d002b7e07":[10,0,17,8,3],
+"d5/d4c/group__sorting.html#ga135e4c638e3bcf548bd122b5f49a3e72":[7,3,3]
 };
