@@ -122,14 +122,14 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"",
-"d2/dcf/namespacestatistics.html",
-"d5/d33/gram__schmidt_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md24",
-"d9/d23/classgraph_1_1_lowest_common_ancestor.html",
-"db/d71/quadratic__probing__hash__table_8cpp.html#a149e32e186c3fac390ffa81dd6c73147",
-"de/d07/cycle__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"globals_vars.html"
+"annotated.html",
+"d3/d06/ode__semi__implicit__euler_8cpp.html#aa13517b8e5de1b75592052db7f7e237f",
+"d5/d4c/group__sorting.html#ga135e4c638e3bcf548bd122b5f49a3e72",
+"d6/dce/rabin__karp_8cpp.html#aed769d565b705a9b3e0eb1ec74088893",
+"d9/d24/poisson__dist_8cpp.html#ac217ab9a06291f360d816700a6958ca8",
+"db/d71/quadratic__probing__hash__table_8cpp.html#a90f9d8a71e3f148b65bcc0c1c8a49c70",
+"de/d23/disjoint__set_8cpp.html#a2fb0a7cd26a477e2d48ba7e0118bc985",
+"namespacemembers.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

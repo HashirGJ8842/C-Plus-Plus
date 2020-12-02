@@ -1,14 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md24":[2,1,2,1],
-"d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md25":[2,1,2,2],
-"d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md26":[2,1,2,3],
-"d6/dce/rabin__karp_8cpp.html":[10,0,18,3],
-"d6/dce/rabin__karp_8cpp.html#a21c673d56cbf67b1d2ee4d869185b7d9":[10,0,18,3,4],
-"d6/dce/rabin__karp_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe":[10,0,18,3,3],
-"d6/dce/rabin__karp_8cpp.html#a8fb0bc932ba8b582c9f4c71338d050f8":[10,0,18,3,2],
-"d6/dce/rabin__karp_8cpp.html#ac4add2a227a10511e0128d63952030e8":[10,0,18,3,0],
-"d6/dce/rabin__karp_8cpp.html#aebe07cea289a13142503d98be7df11fd":[10,0,18,3,1],
 "d6/dce/rabin__karp_8cpp.html#aed769d565b705a9b3e0eb1ec74088893":[10,0,18,3,5],
 "d6/dd3/ode__midpoint__euler_8cpp.html":[10,0,12,10],
 "d6/dd3/ode__midpoint__euler_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[10,0,12,10,1],
@@ -249,5 +240,14 @@ var NAVTREEINDEX3 =
 "d9/d02/linear__search_8cpp.html":[10,0,16,7],
 "d9/d02/linear__search_8cpp.html#a84ac3988a534eb60ca351ed6caf56d84":[10,0,16,7,0],
 "d9/d02/linear__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,16,7,1],
-"d9/d03/namespacestring__search.html":[8,0,57]
+"d9/d03/namespacestring__search.html":[8,0,57],
+"d9/d23/classgraph_1_1_lowest_common_ancestor.html":[9,0,4,3],
+"d9/d23/classgraph_1_1_lowest_common_ancestor.html#a42589cc39d6bbff6c997152f1b96e356":[9,0,4,3,2],
+"d9/d23/classgraph_1_1_lowest_common_ancestor.html#a46d10f669791e3da9a4809bd8ff8d3ad":[9,0,4,3,4],
+"d9/d23/classgraph_1_1_lowest_common_ancestor.html#a60151e19512b48cc0b14ea121df00488":[9,0,4,3,1],
+"d9/d23/classgraph_1_1_lowest_common_ancestor.html#a80825a4fd4c41860b689d253dd2c8e93":[9,0,4,3,0],
+"d9/d23/classgraph_1_1_lowest_common_ancestor.html#ad6ae1f39c3ce27fc009970e6aa3c022a":[9,0,4,3,3],
+"d9/d24/poisson__dist_8cpp.html":[10,0,14,3],
+"d9/d24/poisson__dist_8cpp.html#a63ffd347e75d5ed7a518cbcfbfeec71a":[10,0,14,3,0],
+"d9/d24/poisson__dist_8cpp.html#a69a136b32707bdc7950fb9057b5fa1e1":[10,0,14,3,5]
 };
